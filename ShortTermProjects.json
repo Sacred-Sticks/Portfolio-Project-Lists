@@ -1,31 +1,24 @@
 ﻿[
   {
     "name": "Mirage",
-    "description": "My most complete game jam project. Theme: Duality",
+    "description": "My most complete game jam project",
     "imageLocation": "Images/Mirage/thumbnail.png",
     "imageAlt": "A Scan of a Monster in a Ship",
     "linkAddress": "Projects/Mirage.html"
   },
   {
     "name": "Spellcaster - Retribution",
-    "description": "My biggest VR project. Theme: Two is Better is One",
+    "description": "My biggest VR project",
     "imageLocation": "Images/Spellcaster-Retribution/thumbnail.png",
-    "imageAlt": "Abandoned warehouse level in Blacksite Theta",
-    "linkAddress": "#"
+    "imageAlt": "A Corner of a Dungeon with Mood Lighting",
+    "linkAddress": "Projects/Spellcaster-Retribution.html"
   },
   {
     "name": "Where Silence Survives",
     "description": "My first VR game jam. Theme: Single Use",
     "imageLocation": "Images/Where-Silence-Survives/thumbnail.png",
-    "imageAlt": "Abandoned warehouse level in Blacksite Theta",
-    "linkAddress": "#"
-  },
-  {
-    "name": "Lucidus",
-    "description": "My first foray into management systems. Theme: Escape",
-    "imageLocation": "Images/Lucidus/thumbnail.png",
-    "imageAlt": "Abandoned warehouse level in Blacksite Theta",
-    "linkAddress": "#"
+    "imageAlt": "An Unlit Room with a Weak Purple Light Illuminating an Anubis Statue Holding an Ankh",
+    "linkAddress": "Projects/Where-Silence-Survives.html"
   },
   {
     "name": "Ecology Simulation",
