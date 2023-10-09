@@ -1,10 +1,17 @@
 ﻿[
   {
-    "name": "Mirage",
+    "name": "Hybrid Havoc",
     "description": "My most complete game jam project",
-    "imageLocation": "Images/Mirage/thumbnail.png",
-    "imageAlt": "A Scan of a Monster in a Ship",
-    "linkAddress": "Projects/Mirage.html"
+    "imageLocation": "Images/Hybrid-Havoc/thumbnail.png",
+    "imageAlt": "Gameplay screenshot of Hybrid Havoc with two players each in their respective corner of the screen",
+    "linkAddress": "Projects/Hybrid-Havoc.html"
+  },
+  {
+  "name": "Mirage",
+  "description": "My most unique gameplay mechanic",
+  "imageLocation": "Images/Mirage/thumbnail.png",
+  "imageAlt": "A Scan of a Monster in a Ship",
+  "linkAddress": "Projects/Mirage.html"
   },
   {
     "name": "Spellcaster - Retribution",
