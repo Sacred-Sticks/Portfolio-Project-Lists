@@ -5,5 +5,12 @@
     "imageLocation": "Images/Blacksite-Theta/thumbnail.png",
     "imageAlt": "Blacksite Theta Character Art",
     "linkAddress": "Projects/Blacksite-Theta.html"
+  },
+  {
+    "name": "Getting Ahead",
+    "description": "A Game of Head-Rolling Fun",
+    "imageLocation": "Images/Getting-Ahead/thumbnail.png",
+    "imageAlt": "Ending Room of Getting Ahead Gameplay",
+    "linkAddress": "Projects/Getting-Ahead.html"
   }
 ]
