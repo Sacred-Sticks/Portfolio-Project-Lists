@@ -12,5 +12,12 @@
     "imageLocation": "Images/Getting-Ahead/thumbnail.png",
     "imageAlt": "Ending Room of Getting Ahead Gameplay",
     "linkAddress": "Projects/Getting-Ahead.html"
+  },
+  {
+    "name": "Might-Eez Workshop",
+    "description": "A Game of Toy Production",
+    "imageLocation": "Images/Might-Eez-Workshop/thumbnail.png",
+    "imageAlt": "A robotic toy made with a variety of colors",
+    "linkAddress": "Projects/Might-Eez-Workshop.html"
   }
 ]
