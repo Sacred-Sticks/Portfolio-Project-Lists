@@ -2,22 +2,22 @@
   {
     "name": "Blacksite Theta",
     "description": "A University capstone project",
-    "imageLocation": "Images/Blacksite-Theta/thumbnail.png",
+    "imageLocation": "../Images/Blacksite-Theta/thumbnail.png",
     "imageAlt": "Blacksite Theta Character Art",
-    "linkAddress": "Projects/Blacksite-Theta.html"
+    "linkAddress": "Blacksite-Theta.html"
   },
   {
     "name": "Getting Ahead",
     "description": "A Game of Head-Rolling Fun",
-    "imageLocation": "Images/Getting-Ahead/thumbnail.gif",
+    "imageLocation": "../Images/Getting-Ahead/thumbnail.gif",
     "imageAlt": "Getting Ahead Letters Animation",
-    "linkAddress": "Projects/Getting-Ahead.html"
+    "linkAddress": "Getting-Ahead.html"
   },
   {
     "name": "Might-Eez Workshop",
     "description": "A Game of Toy Production",
-    "imageLocation": "Images/Might-Eez-Workshop/thumbnail.png",
+    "imageLocation": "../Images/Might-Eez-Workshop/thumbnail.png",
     "imageAlt": "A robotic toy made with a variety of colors",
-    "linkAddress": "Projects/Might-Eez-Workshop.html"
+    "linkAddress": "Might-Eez-Workshop.html"
   }
 ]

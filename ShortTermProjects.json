@@ -2,43 +2,43 @@
   {
     "name": "Hybrid Havoc",
     "description": "My most complete game jam project",
-    "imageLocation": "Images/Hybrid-Havoc/thumbnail.png",
+    "imageLocation": "../Images/Hybrid-Havoc/thumbnail.png",
     "imageAlt": "Gameplay screenshot of Hybrid Havoc with two players each in their respective corner of the screen",
-    "linkAddress": "Projects/Hybrid-Havoc.html"
+    "linkAddress": "Hybrid-Havoc.html"
   },
   {
   "name": "Mirage",
   "description": "My most unique gameplay mechanic",
-  "imageLocation": "Images/Mirage/thumbnail.png",
+  "imageLocation": "../Images/Mirage/thumbnail.png",
   "imageAlt": "A Scan of a Monster in a Ship",
-  "linkAddress": "Projects/Mirage.html"
+  "linkAddress": "Mirage.html"
   },
   {
     "name": "Spellcaster - Retribution",
     "description": "My biggest VR project",
-    "imageLocation": "Images/Spellcaster-Retribution/thumbnail.png",
+    "imageLocation": "../Images/Spellcaster-Retribution/thumbnail.png",
     "imageAlt": "A Corner of a Dungeon with Mood Lighting",
-    "linkAddress": "Projects/Spellcaster-Retribution.html"
+    "linkAddress": "Spellcaster-Retribution.html"
   },
   {
     "name": "Where Silence Survives",
     "description": "My first VR game jam. Theme: Single Use",
-    "imageLocation": "Images/Where-Silence-Survives/thumbnail.png",
+    "imageLocation": "../Images/Where-Silence-Survives/thumbnail.png",
     "imageAlt": "An Unlit Room with a Weak Purple Light Illuminating an Anubis Statue Holding an Ankh",
-    "linkAddress": "Projects/Where-Silence-Survives.html"
+    "linkAddress": "Where-Silence-Survives.html"
   },
   {
     "name": "Ecology Simulation",
     "description": "A simulated ecosystem made for Software Engineering",
-    "imageLocation": "Images/Ecology-Simulation/thumbnail.png",
+    "imageLocation": "../Images/Ecology-Simulation/thumbnail.png",
     "imageAlt": "Simulation filled with Foxes, Rabbits, and Carrots",
-    "linkAddress": "Projects/Ecology-Simulation.html"
+    "linkAddress": "Ecology-Simulation.html"
   },
   {
     "name": "A Statue of Time",
     "description": "My first game that I fully programmed",
-    "imageLocation": "Images/A-Statue-Of-Time/thumbnail.png",
+    "imageLocation": "../Images/A-Statue-Of-Time/thumbnail.png",
     "imageAlt": "A Statue of Time Thumbnail",
-    "linkAddress": "Projects/A-Statue-Of-Time.html"
+    "linkAddress": "A-Statue-Of-Time.html"
   }
 ]

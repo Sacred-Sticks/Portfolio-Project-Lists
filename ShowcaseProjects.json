@@ -2,9 +2,9 @@
   {
     "name": "Kickstarter",
     "description": "A Unity package to kickstart development",
-    "imageLocation": "Images/Kickstarter/thumbnail.png",
+    "imageLocation": "../Images/Kickstarter/thumbnail.png",
     "imageAlt": "A circuit-board, the baseline for computers",
-    "linkAddress": "Projects/Kickstarter.html"
+    "linkAddress": "Kickstarter.html"
   }
 ]
 
