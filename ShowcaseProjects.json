@@ -5,6 +5,13 @@
     "imageLocation": "../Images/Kickstarter/thumbnail.png",
     "imageAlt": "A circuit-board, the baseline for computers",
     "linkAddress": "Kickstarter.html"
+  },
+  {
+    "name": "Parogue Heights",
+    "description": "A Roguelike Parkour and Platforming Game",
+    "imageLocation": "../Images/Parogue-Heights/thumbnail.png",
+    "imageAlt": "Sprites for the spells from Parogue Heights",
+    "linkAddress": "Parogue-Heights.html"
   }
 ]
 
